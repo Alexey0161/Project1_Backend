@@ -31,3 +31,7 @@ src = ["src", "tests"]
 [tool.ruff.lint]
 select = ["E", "F", "W", "I"]
 
+[tool.setuptools]
+py-modules = ["cli"]
+package-dir = {"" = "."}
+

@@ -1,0 +1,17 @@
+README.md
+cli.py
+pyproject.toml
+./cli.py
+Project1.egg-info/PKG-INFO
+Project1.egg-info/SOURCES.txt
+Project1.egg-info/dependency_links.txt
+Project1.egg-info/entry_points.txt
+Project1.egg-info/requires.txt
+Project1.egg-info/top_level.txt
+tests/test_analize_files.py
+tests/test_cli_cnt_files.py
+tests/test_cli_copy_files.py
+tests/test_cli_delete_files.py
+tests/test_cli_find_file.py
+tests/test_cli_modif_files.py
+tests/test_integration_cli.py

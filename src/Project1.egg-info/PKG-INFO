@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: Project1
+Version: 0.1.0
+Summary: Универсальный инструмент для работы с файлами
+Author-email: Alexey <your_email@example.com>
+Requires-Dist: flet
+Requires-Dist: pytest
+Requires-Dist: ruff
